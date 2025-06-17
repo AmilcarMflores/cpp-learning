@@ -1,0 +1,15 @@
+# Ignorar archivos de compilación
+*.o
+*.exe
+
+# Ignorar archivos de configuración
+*.config
+
+# Ignorar carpetas de dependencias
+/build/
+/bin/
+/obj/
+
+# Ignorar archivos de sistema
+.DS_Store
+Thumbs.db
